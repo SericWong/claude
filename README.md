@@ -7,7 +7,7 @@
 | 镜像站名称 | 网址 | 支持版本 | 免费额度 | 功能亮点 |
 |------------|------|----------|-----------|-----------|
 | AIBox 一站式AI平台 | [aibox365](https://chat.aibox365.cn) | Claude 3.5 Sonnet/Claude 3.7 Sonnet | 注册赠送算力55，每天登录赠送10次对话 | 支持Claude全系列模型，支持Midjourney、AIPPT |
-| AIBox 一站式AI平台 | [Claude镜像版](https://chinese-chatgpt-mirrors.github.io/gpt-mirror/) | Claude 3.7 Sonnet/Thinking |会员无限制额度使用 | 支持Claude全系列模型，GPT全系列模型，Gemini全系列模型 |
+| Claude镜像站 | [Claude镜像版](https://chinese-chatgpt-mirrors.github.io/gpt-mirror/) | Claude 3.7 Sonnet/Thinking |会员无限制额度使用 | 支持Claude全系列模型，GPT全系列模型，Gemini全系列模型 |
 | Claude智能助手 | [claudechat.ai](https://claudechat.ai) | Claude 3.5 Sonnet, Claude 2 | 注册后10次 | 支持多模态，文档分析 |
 | AI助理 | [ai-assistant.app](https://ai-assistant.app) | Claude 3.5 Sonnet/Opus | 15次 | 中文界面，无广告 |
 
