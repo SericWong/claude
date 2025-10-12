@@ -8,7 +8,7 @@
 |------------|------|----------|-----------|-----------|
 | AIBox 一站式AI平台 | [aibox365](https://chat.aibox365.cn) | Claude 3.5 Sonnet/Claude 3.7 Sonnet | 注册赠送算力55，每天登录赠送10次对话 | 支持Claude全系列模型，支持Midjourney、AIPPT |
 | Claude镜像站 | [Claude镜像版](https://chinese-chatgpt-mirrors.github.io/gpt-mirror/) | Claude 3.7 Sonnet/Thinking |会员无限制额度使用 | 支持Claude全系列模型，GPT全系列模型，Gemini全系列模型 |
-| GPT镜像站 | [GPT镜像版](https://www.aibox365.cn/chatgpt/2025-10-12/120.html) | GPT4o/Claude/Gemini |会员无限制额度使用 |GPT/Claude全系列模型，支持多模型混合对话  |
+| GPT镜像站 | [GPT镜像版](https://www.aibox365.cn/chatgpt/2025-10-13/120.html) | GPT4o/Claude/Gemini |会员无限制额度使用 |GPT/Claude全系列模型，支持多模型混合对话  |
 | Claude智能助手 | [claudechat.ai](https://claudechat.ai) | GPT4o/GPT4.1/o1/o3/Claude 3.5 Sonnet, Claude 2 | 注册后10次 | 支持多模态，文档分析 |
 | AI助理 | [ai-assistant.app](https://ai-assistant.app) | Claude 3.5 Sonnet/Opus | 15次 | 中文界面，无广告 |
 
@@ -71,7 +71,7 @@ Claude 3.5提供了更强的多模态能力、更准确的分析能力，以及�
 ### Q3：如何判断是否真的在使用Claude？
 可以通过复杂推理问题或专业领域问题来测试模型的能力。这里提供一些可以使用的测试case:
 - "一个人能娶自己遗孀的妹妹吗？"
-- "音乐专辑 Ariana Grande 'Eternal Sunshine'是什么时间发布的？"（正确答案2025-10-12，这个主要是区分claude3.5和claude3，claude3时间上在2023年截止）
+- "音乐专辑 Ariana Grande 'Eternal Sunshine'是什么时间发布的？"（正确答案2025-10-13，这个主要是区分claude3.5和claude3，claude3时间上在2023年截止）
 
 ### Q4：Claude的数据安全性如何？
 Claude内置了强大的安全机制，不会泄露敏感信息，也不会生成有害内容。但建议用户在使用时仍然避免输入个人敏感信息。
