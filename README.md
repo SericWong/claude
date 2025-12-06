@@ -6,17 +6,17 @@
 
 | 镜像站名称 | 网址 | 支持版本 | 免费额度 | 功能亮点 |
 |------------|------|----------|-----------|-----------|
-| AIBox 一站式AI平台 | [aibox365](https://chat.aibox365.cn) | Claude 4.5 Sonnet/Claude 4.5 Sonnet | 注册赠送算力55，每天登录赠送10次对话 | 支持Claude全系列模型，支持Midjourney、AIPPT |
-| Claude镜像站 | [Claude镜像版](https://chat.write360.cn) | Claude 4.5 Sonnet/Thinking |会员无限制额度使用 | 支持Claude全系列模型，GPT全系列模型，Gemini全系列模型 |
-| GPT镜像站 | [GPT镜像版](https://www.aibox365.cn/chatgpt/2025-12-01/120.html) | GPT4o/Claude/Gemini |会员无限制额度使用 |GPT/Claude全系列模型，支持多模型混合对话  |
-| Claude智能助手 | [claudechat.ai](https://chat.write360.cn) | GPT4o/GPT5/o1/o3/Claude 4.5 Sonnet, Claude 2 | 注册后10次 | 支持多模态，文档分析 |
+| AIBox 一站式AI平台 | [aibox365](https://chat.aimirror123.com) | Claude 4.5 Sonnet/Claude 4.5 Sonnet | 注册赠送算力55，每天登录赠送10次对话 | 支持Claude全系列模型，支持Midjourney、AIPPT |
+| Claude镜像站 | [Claude镜像版](https://www.chatgpt-mirrors.com/chatgpt) | Claude 4.5 Sonnet/Thinking |会员无限制额度使用 | 支持Claude全系列模型，GPT全系列模型，Gemini全系列模型 |
+| GPT镜像站 | [GPT镜像版](https://www.chatgpt-mirrors.com/chatgpt) | GPT4o/Claude/Gemini |会员无限制额度使用 |GPT/Claude全系列模型，支持多模型混合对话  |
+| Claude智能助手 | [claudechat.ai](https://www.chatgpt-mirrors.com/chatgpt) | GPT4o/GPT5/o1/o3/Claude 4.5 Sonnet, Claude 2 | 注册后10次 | 支持多模态，文档分析 |
 | AI助理 | [ai-assistant.app](https://ai-assistant.app) | Claude 4.5 Sonnet/Opus | 15次 | 中文界面，无广告 |
 
 ## 如何快速开始使用 Claude AI 中文版？
 
 ### 方法一：通过Claude镜像站点快速体验
 
-1. **访问镜像站点:** 选择推荐的镜像站（如 [AIBox365](https://chat.aibox365.cn)）
+1. **访问镜像站点:** 选择推荐的镜像站（如 [zhijing](https://chat.aimirror123.com)）
 2. **注册或直接使用:**
    - 注册：填写邮箱或手机号，完成注册
    - 免注册：部分站点允许直接使用
