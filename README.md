@@ -6,7 +6,7 @@
 
 | 镜像站名称 | 网址 | 支持版本 | 免费额度 | 功能亮点 |
 |------------|------|----------|-----------|-----------|
-| AIBox 一站式AI平台 | [智镜](https://chat.aimirror123.com) | Claude 4.5 Sonnet/Claude 4.5 Sonnet | 注册赠送算力55，每天登录赠送10次对话 | 支持Claude全系列模型，支持Midjourney、AIPPT |
+| Claude 中文版 | [智镜](https://chat.aimirror123.com) | Claude 4.5 Sonnet/Claude 4.5 Sonnet | 注册赠送算力55，每天登录赠送10次对话 | 支持Claude全系列模型，支持Midjourney、AIPPT |
 | Claude镜像站 | [Claude镜像版](https://www.chatgpt-mirrors.com/chatgpt) | Claude 4.5 Sonnet/Thinking |会员无限制额度使用 | 支持Claude全系列模型，GPT全系列模型，Gemini全系列模型 |
 | GPT镜像站 | [GPT镜像版](https://www.chatgpt-mirrors.com/chatgpt) | GPT4o/Claude/Gemini |会员无限制额度使用 |GPT/Claude全系列模型，支持多模型混合对话  |
 | Claude智能助手 | [claudechat.ai](https://www.chatgpt-mirrors.com/chatgpt) | GPT4o/GPT5/o1/o3/Claude 4.5 Sonnet, Claude 2 | 注册后10次 | 支持多模态，文档分析 |
