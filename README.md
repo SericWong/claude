@@ -10,7 +10,7 @@
 | Claude镜像站 | [Claude镜像版](https://www.chatgpt-mirrors.com/chatgpt) | Claude 4.5 Sonnet/Thinking |会员无限制额度使用 | 支持Claude全系列模型，GPT全系列模型，Gemini全系列模型 |
 | GPT镜像站 | [GPT镜像版](https://www.chatgpt-mirrors.com/chatgpt) | GPT4o/Claude/Gemini |会员无限制额度使用 |GPT/Claude全系列模型，支持多模型混合对话  |
 | Claude智能助手 | [claudechat.ai](https://www.claude-site.com/claude/) | GPT4o/GPT5/o1/o3/Claude 4.5 Sonnet, Claude 2 | 注册后10次 | 支持多模态，文档分析 |
-| AI助理 | [ai-assistant.app](https://ai-assistant.app) | Claude 4.5 Sonnet/Opus | 15次 | 中文界面，无广告 |
+|  Gemini AI助理 | [gemini 镜像站](https://www.gemini-tool.com/) | Gemini3.0/Gemini3.0pro/Gemini3.0flash | 15次 | 中文界面，无广告 |
 
 ## 如何快速开始使用 Claude AI 中文版？
 
