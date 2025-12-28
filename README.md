@@ -11,6 +11,7 @@
 | GPT镜像站 | [GPT镜像版](https://www.chatgpt-mirrors.com/chatgpt) | GPT4o/Claude/Gemini |会员无限制额度使用 |GPT/Claude全系列模型，支持多模型混合对话  |
 | Claude智能助手 | [claudechat.ai](https://www.claude-site.com/claude/) | GPT4o/GPT5/o1/o3/Claude 4.5 Sonnet, Claude 2 | 注册后10次 | 支持多模态，文档分析 |
 |  Gemini AI助理 | [gemini 镜像站](https://www.gemini-tool.com/) | Gemini3.0/Gemini3.0pro/Gemini3.0flash | 15次 | 中文界面，无广告 |
+|  Grok 中文网 | [grok 镜像站](https://www.grok-tool.com/) | Grok4.0/Grok4.1/Grok4.1thinking | 15次 | 中文界面，无广告 |
 
 ## 如何快速开始使用 Claude AI 中文版？
 
